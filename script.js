@@ -27,7 +27,7 @@ const wrapperRect = wrapper.getBoundingClientRect();
 const noBtnRect = noBtn.getBoundingClientRect();
 
 yesBtn.addEventListener('click', () => {
-    question.innerHTML = 'I Love You Too Jinal :)';
+    question.innerHTML = 'I Love You Too Jinal :) -Marmik <3333';
     yesBtn.style.display = 'none';
     noBtn.style.display = 'none';
 });
